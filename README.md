@@ -1,2 +1,2 @@
 # Pytorch_mnist
- Simply application on Pytorch
+ Simple application on Pytorch
