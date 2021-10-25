@@ -1,2 +1,2 @@
 # Pytorch_mnist
- Simple application on Pytorch
+This application is using Pytorch to do handwrite numbers classification.
